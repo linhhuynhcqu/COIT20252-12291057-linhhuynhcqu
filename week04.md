@@ -1,6 +1,6 @@
 # Week 4 | E-portfolio 1 – Process Analysis (500 words)
 
-The artefacts: YouTube videos, scholarly articles, interesting readings, clips from lectures and/or tutorials, relevant websites from 2025.
+4 artefacts: YouTube videos, scholarly articles, interesting readings, clips from lectures and/or tutorials, relevant websites from 2025.
 
 ## Introduction to Process Analysis (125 words)
 
