@@ -21,7 +21,7 @@ Paragraph 2 – Reflection / Justification
 
 ## Methods and Tools for Process Analysis 
 
-We can use any techniques. It's maybe 1 Or multiple depends on process.
+We can use any techniques. It's maybe 1 Or multiple depends on process. Techniques: fishbone diagram , Pareto chart.
 
 Artefact: Journal Article
 
