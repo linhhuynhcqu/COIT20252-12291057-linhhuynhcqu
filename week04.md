@@ -9,16 +9,42 @@
 
 
 
-## Core BPM Concepts Related to Process Analysis (125 words)
+## Core BPM Concepts Related to Process Analysis
 
-## Methods and Tools for Process Analysis (125 words)
+Artefact: Journal Article
 
-## Example of Process Analysis  
+Paragraph 1 – Summary
+
+Paragraph 2 – Reflection / Justification
 
 
-## Reflection and Conclusion
+## Methods and Tools for Process Analysis 
+
+Artefact: Journal Article
+
+Paragraph 1 – Summary
+
+Paragraph 2 – Reflection / Justification
+
+
+## Real-world Example of Process Analysis  
+
+Artefact: Journal Article
+
+Paragraph 1 – Summary
+
+Paragraph 2 – Reflection / Justification
+
+
+
+## Conclusion (Do need conclusion or no?)
 
 ## References 
 
-Define - what is mean?
-Why we need this process?
+
+# Week 4 | E-portfolio 1 – Process Analysis (Option 2)
+
+
+
+
+
