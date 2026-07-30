@@ -1,4 +1,4 @@
-# Week 4 | E-portfolio 1 – Process Analysis (500 words)
+# Week 4 | E-portfolio 1 – Process Analysis (500 words) - Option 1
 
 4 artefacts: YouTube videos, scholarly articles, interesting readings, clips from lectures and/or tutorials, relevant websites from 2025.
 
@@ -44,6 +44,19 @@ Paragraph 2 – Reflection / Justification
 
 # Week 4 | E-portfolio 1 – Process Analysis (Option 2)
 
+## Introduction to Process Analysis 
+
+Paragraph summarise
+
+## Artefact 1
+- Paragraph 1 – Summary: Describe what the artefact is about: What is discussed?, What is the main idea?, What problem does it solve?
+- Paragraph 2 – Reflection / Justification: Why you chose this artefact, What you learned? How it relates to Process Analysis
+
+## Artefact 2
+## Artefact 3
+## Artefact 4
+
+## References
 
 
 
