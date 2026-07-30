@@ -4,8 +4,8 @@
 
 ## Introduction to Process Analysis (125 words)
 
-- Paragraph 1: Chosen artefact: Define - what is process analysis mean?
-- Paragraph 2: Describe why chose this artefact, i.e why you think this item appropriate and relevant to the topic.
+- Paragraph 1: Chosen artefact and summary: Define - what is process analysis mean? What is the main idea?
+- Paragraph 2: Describe why chose this artefact, i.e why you think this item appropriate and relevant to the topic, what you learned? 
 
 
 
