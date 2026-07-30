@@ -4,7 +4,7 @@
 
 ## Introduction to Process Analysis (125 words)
 Artefact: Journal Article
-Title: SOPA: a framework for sustainability-oriented process analysis and re-design in business process management (2025)
+Title: **SOPA: a framework for sustainability-oriented process analysis and re-design in business process management (2025)**
 
 - Paragraph 1: Chosen artefact and summary: Define - what is process analysis mean? What is the main idea?
 - Paragraph 2: Describe why chose this artefact, i.e why you think this item appropriate and relevant to the topic, what you learned? 
