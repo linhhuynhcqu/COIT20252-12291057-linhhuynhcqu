@@ -20,6 +20,8 @@ Paragraph 2 – Reflection / Justification
 
 ## Methods and Tools for Process Analysis 
 
+We can use any techniques. It's maybe 1 Or multiple depends on process.
+
 Artefact: Journal Article
 
 Paragraph 1 – Summary
