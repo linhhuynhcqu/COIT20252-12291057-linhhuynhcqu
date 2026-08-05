@@ -1,6 +1,8 @@
 
 Week 7: E-portfolio 2 – Business Process Modelling
 
+https://www.youtube.com/watch?v=8NbvJjdCr1k
+
 
 # Week 4 | E-portfolio 1 – Process Analysis (500 words) - Option 1
 
