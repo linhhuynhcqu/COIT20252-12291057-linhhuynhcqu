@@ -1,6 +1,6 @@
 # Week 4 | E-portfolio 1 – Process Analysis 
 
-## Introduction to Process Analysis (125 words)
+## Introduction to Process Analysis
 _**Artefact:**_ Webpage Article - What is process analysis? (IBM 2026)
 
 Process analysis includes the examination of each step in a organisation process to determine how it identify areas, operates for change, and ensure it aligns with business goals. The IBM article shows the way analysing activities helps company reduces mistakes, adapt to changing environment and improve output. Moreover, process analysis is closely linked to Business Process Management (BPM), showing how structured analysis supports decision-making (IBM 2026).
@@ -18,7 +18,16 @@ The presentation illustrates the role of process analysis fits into the BPM fram
 
 ## Methods and Tools for Process Analysis 
 
-_**Artefact:**_ Youtube video - Root Cause Analysis for Project Managers | Fix Project Issues Fast with 5 Whys, Fishbone & Pareto (Zaidan Consulting 2025) https://www.youtube.com/watch?v=XbVH2XNmdNU
+_**Artefact:**_ Youtube video - Root Cause Analysis for Project Managers | Fix Project Issues Fast with 5 Whys, Fishbone & Pareto (Zaidan Consulting 2025) 
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=XbVH2XNmdNU">
+    <img src="https://img.youtube.com/vi/XbVH2XNmdNU/0.jpg" 
+         alt="Root Cause Analysis for Project Managers"
+         width="600">
+  </a>
+</p>
+<p align="center"><strong>Figure 1.</strong> Root Cause Analysis for Project Managers</p>
 
 Businesses frequently use different analysis techniques to detect problems and offer improvement opportunities. This video introduces three methods for process analysis: the 5 Whys, Pareto Analysis, and Fishbone Diagram. The author discusses how the 5 Whys uncovers basic problems through repeated questioning, how the Fishbone Diagram clearly outlines potential causes, and how Pareto charts assist prioritise issues by frequency or impact (Zaidan Consulting 2025).
 
