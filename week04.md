@@ -31,7 +31,7 @@ _**Artefact:**_ Youtube video - Root Cause Analysis for Project Managers | Fix P
   <a href="https://www.youtube.com/watch?v=XbVH2XNmdNU">
     <img src="https://img.youtube.com/vi/XbVH2XNmdNU/0.jpg" 
          alt="Root Cause Analysis for Project Managers"
-         width="600">
+         width="700">
   </a>
 </p>
 <p align="center"><strong>Figure 2.</strong> Root Cause Analysis for Project Managers</p>
