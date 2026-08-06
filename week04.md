@@ -11,6 +11,13 @@ The artefact presents description of value and purpose of process analysis. I ca
 
 _**Artefact:**_ Video from lecture - COIT20252: Business Process Management – Process Analysis (Morshed 2026)
 
+<p align="center">
+  <img width="895" height="459" 
+       alt="Screenshot 2026-08-07 at 1 55 27 am" 
+       src="https://github.com/user-attachments/assets/583c8b09-b72e-410f-82b4-20e2eefcff53">
+</p>
+<p align="center"><strong>Figure 1.</strong> Process analysis in the BPM lifecycle </p>
+
 Process analysis is an essential phase in the BPM lifecycle, happening after process identification and align business strategies. Organisations need to examine process to know what is happening, where problems happening and why it is happening. The lecture explores event triggers including strategy planning, new product development, regulatory obligations, and performance issues, all requiring thorough analysis to prevent incorrect conclusions (Morshed 2026, p.4).
 
 The presentation illustrates the role of process analysis fits into the BPM framework and why it is crucial for decision making. He explains how analysis avoids companies from solving incorrect concerns and supports to recognising customer behaviour trends, outdated activities, and cross functional workflow challenges. Therefore, process analysis contributes to mitigated risks , enhanced customer experience, and more accurate redesign of process.
@@ -27,7 +34,7 @@ _**Artefact:**_ Youtube video - Root Cause Analysis for Project Managers | Fix P
          width="600">
   </a>
 </p>
-<p align="center"><strong>Figure 1.</strong> Root Cause Analysis for Project Managers</p>
+<p align="center"><strong>Figure 2.</strong> Root Cause Analysis for Project Managers</p>
 
 Businesses frequently use different analysis techniques to detect problems and offer improvement opportunities. This video introduces three methods for process analysis: the 5 Whys, Pareto Analysis, and Fishbone Diagram. The author discusses how the 5 Whys uncovers basic problems through repeated questioning, how the Fishbone Diagram clearly outlines potential causes, and how Pareto charts assist prioritise issues by frequency or impact (Zaidan Consulting 2025).
 
