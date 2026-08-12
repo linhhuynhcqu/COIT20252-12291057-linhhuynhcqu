@@ -39,7 +39,7 @@ Paragraph 2 – Reflection / Justification
 
 
 
-## Conclusion (Do need conclusion or no?)
+## Conclusion 
 
 ## References 
 
