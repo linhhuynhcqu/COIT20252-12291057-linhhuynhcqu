@@ -14,6 +14,13 @@ W5
 
 ## Core BPM Concepts Related to Process Analysis
 
+## Process Model Framework
+
+Porter’s value chain: second activities = support activities
+SCOR (Supply Chain Operations Reference)
+PCF (Process Classification Framework) from APQC
+Industry-specific frameworks
+
 
 ## Methods and Tools for Process Analysis 
 
